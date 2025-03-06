@@ -80,7 +80,7 @@ section {
     margin-bottom: 3rem;
     background: url('img/fogueira-removebg-preview.png') top right no-repeat,
         url('img/ff-removebg-preview.png') bottom left no-repeat;
-    background-size: 320px 220px;
+    background-size: 220px 320px;
     /* Ajuste o tamanho conforme necessário */
 }
 
