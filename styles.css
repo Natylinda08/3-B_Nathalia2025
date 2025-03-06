@@ -78,8 +78,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/ff-removebg-preview.png') top right no-repeat,
-        url('img/fogueira-removebg-preview.png') bottom left no-repeat;
+    background: url('img/fogueira-removebg-preview.png') top right no-repeat,
+        url('img/ff-removebg-preview.png') bottom left no-repeat;
     background-size: 320px 220px;
     /* Ajuste o tamanho conforme necessário */
 }
