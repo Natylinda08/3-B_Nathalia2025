@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #ff2a2a;
+    --laranja-claro: #fcff59;
 }
 
 body {
@@ -108,7 +108,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('img/Festa-Junina-Freepick-2-scaled.webp') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
